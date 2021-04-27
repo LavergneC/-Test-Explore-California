@@ -3,3 +3,5 @@ tempfile
 *.gz
 log/*.log
 log/*.log.[0-9]
+tours.html
+
